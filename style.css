@@ -1,0 +1,57 @@
+body {
+	background-color: #660000;
+}
+
+h1 {
+	color: #660000;
+	font-family: cursive;
+	font-size: 40px;
+	margin: 8px;
+}
+
+h2 {
+	font-family: Verdana;
+	font-size: 18px;
+	color: #660000;
+	margin: 8px;
+}
+
+p {
+   font-family: Verdana, serif;
+   font-size: 16px;
+   color: #660000;
+   margin: 8px;
+   padding: 8px;
+}
+
+img {
+	display: inline;
+	height: 220px;
+	width: 144px;
+	margin: 8px;
+}
+
+a {
+	font-family: Verdana;
+	color: #660000;
+	font-size: 14px;
+	margin: 8px;
+	padding: 8px;
+	display: block;
+}
+
+#header {
+	background-color: #ffffff;
+	width: 800px;
+	border-radius: 14px;
+	margin: 8px;
+}
+
+#main {
+	background-color: #ffffff;
+	width: 600px;
+	border-radius: 14px;
+	margin: 8px;
+}
+
+
